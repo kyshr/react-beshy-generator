@@ -33,6 +33,9 @@ function App() {
                             </button>
                         ) : null}
                     </p>
+                    <p className="text-xs text-gray-300 text-center">
+                        Made with ❤️ by Kyle Joseph Timajo
+                    </p>
                 </div>
             </div>
         </>
